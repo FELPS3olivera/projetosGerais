@@ -1,0 +1,143 @@
+/* Classe*/
+.paragraph{ 
+    background-color: black;
+    color: aqua;
+    padding: 5px;
+}
+
+/* ods*/
+#exclusive-title{
+    background-color: rgb(0, 0, 0);
+    color: rgb(192, 182, 90);
+    padding: 10px;
+    font-size: 40px;
+}
+/*HEX*/
+.simple-hex{
+    color: rgb(0, 255, 255);
+    background-color: rgb(0, 0, 0);
+    padding: 10SDpx;
+}
+/*RGB*/
+.rgb{
+    color: rgb(0, 255, 255);
+    background-color: rgb(0, 0, 0);
+    padding: 5px;
+}
+ /*HSL*/
+ .hsl{
+    color: rgb(0, 255, 255);
+    background-color: black;
+    padding: 5px;
+ }
+
+ body{
+    background-image: url()
+ }
+
+.altura-largura{
+    height: 100px;
+    width: 50px;
+    background-color: aqua;
+}
+
+.altura-largura2{
+    background-color: aqua;
+    height: 50px;
+    width: 50px;
+}
+
+.esse-tem-padding{
+    background-color: blueviolet;
+    color: black;
+    border: 12px;
+    border-left: 3px;
+}
+.sem-padding{
+    height: 50px;
+    background-color: aqua;
+    color: mediumblue;
+}
+
+.padding-indivdula{
+    background-color: blueviolet;
+    color: black;
+    padding-top: 20px;
+    padding-left: 5px;
+    padding-right: 10px;
+    padding-bottom: 50px;
+}
+/*shorthand padding*/
+.shorthand-padding{
+    background-color: blueviolet;
+    color: black;
+    padding: 6px 12px 18px 24px;
+}
+
+ .shorthand-padding2{
+    background-color: aqua;
+    padding: 10px 20px;
+ }
+ .com-boder-box{
+    background-color: blueviolet;
+    color: black;
+    width: 40px;
+    padding: 50px;
+ }
+
+ .com-boder-box{
+    background-color: rgb(147, 56, 150);
+    color: black;
+    width: 400px;
+    padding: 50px;
+    box-sizing: border-box;
+ }
+
+.borda-esquerda{
+    border-left: 3px;
+    background-color: brown;
+    padding: 25px;
+}
+
+.borda-direita{
+    border-bottom: 5px;
+    background-color: blueviolet;
+    color: black;
+    padding: 30px;
+}
+
+.borda-arredondada{
+    border: 4px;
+    background-color: rgb(43, 8, 66);
+    color: rgb(0, 0, 0);
+    padding: 5px;
+    border-radius: 15px;
+}
+
+.alinhamento-direito{
+    text-align: right;
+    font-size: 15px;
+    color: rgb(80, 253, 12);
+    background-color: blueviolet;
+}
+
+.cotainer-centro{
+    text-align: center;
+    width: 300px;
+    border: 1px;
+    color: chartreuse;
+}  
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
